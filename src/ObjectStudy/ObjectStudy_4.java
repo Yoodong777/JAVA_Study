@@ -26,5 +26,6 @@ public class ObjectStudy_4 {
         c1.setOprands(20,40);
         c1.sum();
         c1.avg();
+
     }
 }
